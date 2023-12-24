@@ -1,5 +1,5 @@
-// The 'kadirchanToken' program.
-program kadirchanToken.aleo {
+// The 'kadirchantoken1905' program.
+program kadirchantoken1905.aleo {
 
     mapping account:address => u64;
 
